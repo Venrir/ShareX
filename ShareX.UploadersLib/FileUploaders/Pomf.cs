@@ -63,7 +63,7 @@ namespace ShareX.UploadersLib.FileUploaders
         {
             //new PomfUploader("https://pomf.se/upload.php"),
             new PomfUploader("https://u.aww.moe/upload", "https://aww.moe"),
-            new PomfUploader("https://biyori.moe/upload.php"),
+            new PomfUploader("https://biyori.moe/api/upload"),
             new PomfUploader("https://cocaine.ninja/upload.php"),
             new PomfUploader("https://comfy.moe/upload.php"),
             new PomfUploader("https://desu.sh/upload.php", "https://a.desu.sh"),
